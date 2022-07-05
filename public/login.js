@@ -23,7 +23,6 @@ function LoginMsg(props){
       props.setShow(true);
   });
 }
-  
   return(<>
     <h5>Success</h5>
     <button type="submit" 
