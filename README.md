@@ -2,7 +2,7 @@
 
 Full Stack Banking Application
 
-<h2>Description:<\h2>
+<h2>Description:</h2>
 
 This app alows the user to create an account that stores the account balance. In the app you can deposit and withdraw virtual money. And on top of that you are able to transfer virtual money between users in the application.
 
