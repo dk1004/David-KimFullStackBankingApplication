@@ -1,6 +1,4 @@
-# David-KimFullStackBankingApplication
-
-Full Stack Banking Application
+#Full Stack Banking Application
 
 <h2>Description:</h2>
 
