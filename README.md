@@ -1,4 +1,4 @@
-#Full Stack Banking Application
+<h1>Full Stack Banking Application</h1>
 
 <h2>Description:</h2>
 
